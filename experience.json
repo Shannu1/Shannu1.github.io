@@ -32,7 +32,8 @@
         "Responsible for performing tasks like Branching, Tagging, and Release Activities on Version Control System GIT",
         "Utilized AWS CLI to automate backups of ephemeral data-stores to S3 buckets and EBS.",
         "Created <b>automated infrastructure deployment</b> in <b>AWS</b> using pipelines and <b>Ansible</b>, this includes from procurement of EC2 instance to installation, configuration, till consumption.",
-        "Created topics in SNS to send notifications to subscribers as per the requirement..",
+        "Created topics in SNS to send notifications to subscribers as per the requirement."
+		],
         "Location": "Hyderabad, India",
         "Company Website": "https://www.yepraservices.com/"
     }
