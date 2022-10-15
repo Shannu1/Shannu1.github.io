@@ -23,19 +23,23 @@
         "Company Website": "https://www.ashtek.uk/"
     },
     {
-        "Company Name": "YEPRA IT SERVICES PRIVATE LIMITED",
-        "Client Name": "",
-        "Role": "Software Trainee",
-        "Start Month Year": "01/2018 ",
-        "End Month Year": " 06/2019",
+        "Company Name": "Sarlak Techno Systems",
+        "Client Name": "HCT",
+        "Role": "Software Engineer",
+        "Start Month Year": "04/2016 ",
+        "End Month Year": " 09/2019",
         "TaskAchievements": ["Responsible for data ingestion from various data sources (big data), data <b>cleansing</b> and data <b>wrangling</b>.",
         "Responsible for performing tasks like Branching, Tagging, and Release Activities on Version Control System GIT",
         "Utilized AWS CLI to automate backups of ephemeral data-stores to S3 buckets and EBS.",
         "Created <b>automated infrastructure deployment</b> in <b>AWS</b> using pipelines and <b>Ansible</b>, this includes from procurement of EC2 instance to installation, configuration, till consumption.",
         "Created topics in SNS to send notifications to subscribers as per the requirement."
+	"Created IAM roles and polysis"
+	"Effective source control management with Git"		     
+	"Experience working across both Linux and Windows"		     
+	"Excellent communication skills"		     
 		],
-        "Location": "Hyderabad, India",
-        "Company Website": "https://www.yepraservices.com/"
+        "Location": "Chennai, India",
+        "Company Website": "http://sarlaktechsys.com/"
     }
     ],
     "Other Projects": [{
@@ -76,6 +80,6 @@
     }
     ],
     "Certifications": [
-        "ISTQB Certified Tester, Foundation Level"
+        "AWS Cloud Practioner Essentials"
     ]
 }
