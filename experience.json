@@ -6,10 +6,10 @@
     "LinkedIn": "linkedin.com/in/shaik-shahanaz-2036111a1",
     "Telephone": "+44-7309645665",
     "Location": "Stoke-On-Trent, UK ",
-    "WebVersion": " ",
+    "WebVersion": "",
 	"Work Experience":[{
         "Company Name": "ASHTEK-IT-SOLUTIONS",
-        "Client Name": "Gooverseas",
+        "Client Name": "",
         "Role": "Associate Software Enginner",
         "Start Month Year": "2020/09 ",
         "End Month Year": "2021/05",
@@ -25,7 +25,7 @@
     },
     {
         "Company Name": "Sarlak Techno Systems",
-        "Client Name": "HCT",
+        "Client Name": "",
         "Role": "Software Engineer",
         "Start Month Year": "04/2016 ",
         "End Month Year": " 09/2019",
