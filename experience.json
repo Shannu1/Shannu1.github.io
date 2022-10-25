@@ -7,7 +7,7 @@
     "Telephone": "+44-7309645665",
     "Location": "Stoke-On-Trent, UK ",
     "WebVersion": "",
-	"Skills": {
+	"Skills":[ {
         "Languages & Scripting": "Python, Core Java & Shell Scripting, Java Script",
         "Operating systems": "Linux and Windows",
         "SCM": "GIT, GITHUB",
@@ -19,7 +19,8 @@
         "Utilities": "BMC Remedy, Service Now, Jira",
         "Cloud Services": "AWS, GCP",
         "Configuration Management": "Ansible, CloudFormation"
-        },
+        }
+	],
 	"Work Experience":[{
         "Company Name": "ASHTEK-IT-SOLUTIONS",
         "Client Name": "GOC",
