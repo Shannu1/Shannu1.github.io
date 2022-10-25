@@ -7,12 +7,25 @@
     "Telephone": "+44-7309645665",
     "Location": "Stoke-On-Trent, UK ",
     "WebVersion": "",
+	"Skills": {
+        "Languages & Scripting": "Python, Core Java & Shell Scripting, Java Script",
+        "Operating systems": "Linux and Windows",
+        "SCM": "GIT, GITHUB",
+        "Build Tools": "Maven",
+        "Databases": "Oracle, MySQL",
+        "CI/CD Orchestration": "Jenkins, Code Build & Code Pipeline",
+        "Other Tools": "Sonar, Putty, WinScp, Sql Developer",
+        "Container Tools": "Docker",
+        "Utilities": "BMC Remedy, Service Now, Jira",
+        "Cloud Services": "AWS, GCP",
+        "Configuration Management": "Ansible, CloudFormation"
+        },
 	"Work Experience":[{
         "Company Name": "ASHTEK-IT-SOLUTIONS",
-        "Client Name": "",
-        "Role": "Associate Software Enginner",
+        "Client Name": "GOC",
+        "Role": "Associate Software Engineer",
         "Start Month Year": "2020/09 ",
-        "End Month Year": "2021/05",
+        "End Month Year": "2022/05",
         "TaskAchievements": ["Responsible for design, develop, document, analyze, create, test and modify computer systems.",
         "Created code application pipelines using <b>Jenkins</b> and Infrastructure as Code pipelines using <b>AWS CodeBuild</b>.",
 	"Enabled Continuous Delivery through Deployment into several environments of Test, QA, Stress and Production using Jenkins.",
@@ -25,7 +38,7 @@
     },
     {
         "Company Name": "Sarlak Techno Systems",
-        "Client Name": "",
+        "Client Name": "HTC",
         "Role": "Software Engineer",
         "Start Month Year": "04/2016 ",
         "End Month Year": " 09/2019",
@@ -45,7 +58,7 @@
     ],
     "Other Projects": [{
         "Title": "ELECTRIC VEHICLE CHARGING MANAGEMENT – DRIVER RECOMMENDATION SYSTEM",
-        "Sub Title": "Acadamic Research project",
+        "Sub Title": "Academic Research project",
         "Start Month Year": "",
         "End Month Year": "",
         "Location": "NTU, UK",
@@ -53,22 +66,23 @@
         "Roles and Responsibilities": ["This report project I had implemented an automatic real- time system where driver can easily locate the place to charge the vehicle on the move, to reduce the wait time near the charging slots, can be able to plan the trip in advance, can be able to detect the suitable CS from the vehicle in terms to time, distance and traffic congestion from google maps..",
         "Locate the position of vehicle in the google maps without any personalised subscriptions.",
         "Tested the working software functionalities of the developed system in both web and Android based applications"
-        ]
+	]			       
+		 },
+	{			       
+	"Title": "CLOUD BASED SMART PARKING SYSTEM & DRIVER RECOMMENDATION SYSTEM FOR PARKING ",
+        "Sub Title": "Major project",
+        "Start Month Year": "",
+        "End Month Year": "",
+        "Location": "NTU, UK",
+        "Description": "",
+        "Roles and Responsibilities": ["Developed Recommendation system for driver to park the vehicle based on the price, distance, destination by developing a smart Internal parking system.",
+        "Developed Automated gates by vehicle detection by scanning the number plate controlled by distance detecting sensors.",
+	"Developed detection of the slot and alarm indication to driver to avoid collision to the wall, detection of pre- booked or already parked slots to reduce the human errors.",			       
+        "Established the connection between all the parking areas management local repository and databases to central repositories of cloud server with the approaches of IoT wireless sensor networks WSN which can be managed by web-based applications."			       
+	]			      
     }
     ],
-    "Skills": {
-        "Languages & Scripting": "Python, Core Java & Shell Scripting, Java Script",
-        "Operating systems": "Linux and Windows",
-        "SCM": "GIT, GITHUB",
-        "Build Tools": "Maven",
-        "Databases": "Oracle, MySQL",
-        "CI/CD Orchestration": "Jenkins, Code Build & Code Pipeline",
-        "Other Tools": "Sonar, Putty, WinScp, Sql Developer",
-        "Container Tools": "Docker",
-        "Utilities": "BMC Remedy, Service Now, Jira",
-        "Cloud Services": "AWS, GCP",
-        "Configuration Management": "Ansible, CloudFormation"
-        },
+    
     "Education":[
         {
         "Degree": "Master of Engineering",
