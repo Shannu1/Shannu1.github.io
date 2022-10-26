@@ -7,7 +7,7 @@
   "Telephone": "+44-7309645665",
   "Location": "Stoke-On-Trent, UK ",
   "WebVersion": "",
-  "Skills": [
+  "Skills": 
     {
       "Languages & Scripting": "Python, Core Java & Shell Scripting, Java Script",
       "Operating systems": "Linux and Windows",
@@ -20,24 +20,20 @@
       "Utilities": "BMC Remedy, Service Now, Jira",
       "Cloud Services": "AWS, GCP",
       "Configuration Management": "Ansible, CloudFormation"
-    }
-  ],
-  "Work Experience": [
-    {
+    },
+  "Work Experience": [{
       "Company Name": "ASHTEK-IT-SOLUTIONS",
       "Client Name": "GOC",
       "Role": "Associate Software Engineer",
       "Start Month Year": "2020/09 ",
       "End Month Year": "2022/05",
-      "TaskAchievements": [
-        "Responsible for design, develop, document, analyze, create, test and modify computer systems.",
+      "TaskAchievements": ["Responsible for design, develop, document, analyze, create, test and modify computer systems.",
         "Created code application pipelines using Jenkins and Infrastructure as Code pipelines using AWS CodeBuild.",
         "Enabled Continuous Delivery through Deployment into several environments of Test, QA, Stress and Production using Jenkins.",
         "Created CloudFormation templates for various AWS Cloud services like EC2, S3, ECS, RDS, Lambda,IAM, Secrets, KMS keys etc.",
         "Worked on standardization of IAM user role policies of various personas like support, admin and development.",
         "Working on Cloud Economics Program which focuses on budgeting, cost analysis and savings on AWS Resources.",
-        "Configure logging and monitoring using AWS servies and implemented security monitoring and traffic."
-      ],
+        "Configure logging and monitoring using AWS servies and implemented security monitoring and traffic."],
       "Location": "UK",
       "Company Website": "https://www.ashtek.uk/"
     },
@@ -47,8 +43,7 @@
       "Role": "Software Engineer",
       "Start Month Year": "04/2016 ",
       "End Month Year": " 09/2019",
-      "TaskAchievements": [
-        "Developed Cloud Formation scripts to build on demand EC2 instance formation.",
+      "TaskAchievements": ["Developed Cloud Formation scripts to build on demand EC2 instance formation.",
         "Responsible for performing tasks like Branching, Tagging, and Release Activities on Version Control System GIT",
         "Play a significant role in establishing operational processes for a fast-growing distributed cloud platform using AWS.",
         "Improve deployment process within AWS cross-region automated deployment.",
@@ -62,8 +57,7 @@
         "Created snapshots to take backups of the volumes and images to store launch configurations of the EC2 instances",
         "Created EBS volumes for storing application files for use with EC2 instances whenever they are mounted to them.",
         "Created and configured elastic load balancers and auto scaling groups to distribute the traffic and to have a cost efficient, fault tolerant and highly available environment.",
-        "Used security groups, network ACL’s, internet gateways and route tables to ensure a secure zone for organization in AWS public cloud"
-      ],
+        "Used security groups, network ACL’s, internet gateways and route tables to ensure a secure zone for organization in AWS public cloud"],
       "Location": "India",
       "Company Website": "http://sarlaktechsys.com/"
     }
@@ -76,8 +70,7 @@
       "End Month Year": "",
       "Location": "NTU, UK",
       "Description": "",
-      "Roles and Responsibilities": [
-        "This report project I had implemented an automatic real- time system where driver can easily locate the place to charge the vehicle on the move, to reduce the wait time near the charging slots, can be able to plan the trip in advance, can be able to detect the suitable CS from the vehicle in terms to time, distance and traffic congestion from google maps..",
+      "Roles and Responsibilities": ["This report project I had implemented an automatic real- time system where driver can easily locate the place to charge the vehicle on the move, to reduce the wait time near the charging slots, can be able to plan the trip in advance, can be able to detect the suitable CS from the vehicle in terms to time, distance and traffic congestion from google maps..",
         "Locate the position of vehicle in the google maps without any personalised subscriptions.",
         "Tested the working software functionalities of the developed system in both web and Android based applications"
       ]
@@ -89,8 +82,7 @@
       "End Month Year": "",
       "Location": "NTU, UK",
       "Description": "",
-      "Roles and Responsibilities": [
-        "Developed Recommendation system for driver to park the vehicle based on the price, distance, destination by developing a smart Internal parking system.",
+      "Roles and Responsibilities": ["Developed Recommendation system for driver to park the vehicle based on the price, distance, destination by developing a smart Internal parking system.",
         "Developed Automated gates by vehicle detection by scanning the number plate controlled by distance detecting sensors.",
         "Developed detection of the slot and alarm indication to driver to avoid collision to the wall, detection of pre- booked or already parked slots to reduce the human errors.",
         "Established the connection between all the parking areas management local repository and databases to central repositories of cloud server with the approaches of IoT wireless sensor networks WSN which can be managed by web-based applications."
