@@ -30,9 +30,10 @@
         "TaskAchievements": ["Responsible for design, develop, document, analyze, create, test and modify computer systems.",
         "Created code application pipelines using <b>Jenkins</b> and Infrastructure as Code pipelines using <b>AWS CodeBuild</b>.",
 	"Enabled Continuous Delivery through Deployment into several environments of Test, QA, Stress and Production using Jenkins.",
-        "Created <b>CloudFormation templates</b> for various AWS Cloud services like EC2, S3, EMR, ECS, RDS, Lambda,IAM, Secrets, KMS keys etc.,",
+        "Created <b>CloudFormation templates</b> for various AWS Cloud services like EC2, S3, ECS, RDS, Lambda,IAM, Secrets, KMS keys etc.,",
         "Worked on standardization of IAM user role policies of various personas like support, admin and development.",
-        "Working on Cloud Economics Program which focuses on budgeting, cost analysis and savings on AWS Resources. "
+        "Working on Cloud Economics Program which focuses on budgeting, cost analysis and savings on AWS Resources. ",
+	"Configure logging and monitoring using AWS servies and implemented security monitoring and traffic."		     
         ],
         "Location": "UK",
         "Company Website": "https://www.ashtek.uk/"
@@ -43,15 +44,21 @@
         "Role": "Software Engineer",
         "Start Month Year": "04/2016 ",
         "End Month Year": " 09/2019",
-        "TaskAchievements": ["Responsible for data ingestion from various data sources (big data), data <b>cleansing</b> and data <b>wrangling</b>.",
+        "TaskAchievements": ["",
         "Responsible for performing tasks like Branching, Tagging, and Release Activities on Version Control System GIT",
-        "Utilized AWS CLI to automate backups of ephemeral data-stores to S3 buckets and EBS.",
-        "Created <b>automated infrastructure deployment</b> in <b>AWS</b> using pipelines and <b>Ansible</b>, this includes from procurement of EC2 instance to installation, configuration, till consumption.",
-        "Created topics in SNS to send notifications to subscribers as per the requirement.",
-	"Created IAM roles and policies",
-	"Effective source control management with Git",	     
-	"Experience working across both Linux and Windows",		     
-	"Excellent communication skills"		     
+        "Play a significant role in establishing operational processes for a fast-growing distributed cloud platform using AWS.",
+	"Improve deployment process within AWS cross-region automated deployment.",
+	"Used Nagios as monitoring tool and ELK for log management. ",
+        "Created automated infrastructure deployment in AWS using pipelines and Ansible, this includes from procurement of EC2 instance to installation, configuration, till consumption.",
+        "Analyze logs, traffic and alarms to detect anomalies or malicious activites.",
+	"Created IAM roles and policies.",
+	"Worked on logging and traffic monitoring of application with AWS services such as CloudTrail, Amazon CloudWatch and VPC Flow Logs.",	     
+	"Responsible for taking the source code and compiling using Maven and package it in its distributable format, such as a JAR / WAR and deployed in Tomcat app server.",		     
+	"Created S3 buckets in the AWS environment to store files, sometimes which are required to serve static content for a web application",
+	"Created snapshots to take backups of the volumes and images to store launch configurations of the EC2 instances",
+	"Created EBS volumes for storing application files for use with EC2 instances whenever they are mounted to them.",
+	"Created and configured elastic load balancers and auto scaling groups to distribute the traffic and to have a cost efficient, fault tolerant and highly available environment.",
+	"Used security groups, network ACL’s, internet gateways and route tables to ensure a secure zone for organization in AWS public cloud"		     
 		],
         "Location": "India",
         "Company Website": "http://sarlaktechsys.com/"
