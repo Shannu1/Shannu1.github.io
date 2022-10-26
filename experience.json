@@ -44,7 +44,7 @@
         "Role": "Software Engineer",
         "Start Month Year": "04/2016 ",
         "End Month Year": " 09/2019",
-        "TaskAchievements": ["",
+        "TaskAchievements": ["Developed Cloud Formation scripts to build on demand EC2 instance formation.",
         "Responsible for performing tasks like Branching, Tagging, and Release Activities on Version Control System GIT",
         "Play a significant role in establishing operational processes for a fast-growing distributed cloud platform using AWS.",
 	"Improve deployment process within AWS cross-region automated deployment.",
