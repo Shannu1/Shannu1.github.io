@@ -32,7 +32,7 @@
         "Enabled Continuous Delivery and deployment into several environments such as Test, QA/UAT and Production environments using Jenkins.",
         "Created CloudFormation templates for various AWS Cloud services like EC2, S3, ECS, RDS, Lambda, IAM, Secrets, KMS keys etc.",
         "Standardised IAM federated user role policies of various personas like support, admin and development.",
-        "Working on Cloud Economics Program which focuses on budgeting, cost analysis and savings on AWS Resources.",
+        "Working on Cloud Economics Program which focuses on budgeting, cost analysis and savings on AWS Resources."]
       "Location": "UK",
       "Company Website": "https://www.ashtek.uk/"
     }
