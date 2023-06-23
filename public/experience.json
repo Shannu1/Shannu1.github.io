@@ -61,7 +61,7 @@
         " Experience in Application deployment on various web/application Servers",
         "Worked on Build and Release Management methodologies and Software Procedures in all aspects of SDLC.",
         "Customer Support and trouble Shooting Skills & Experience in Providing 24x7 supports."],
-        "Location": "Remote, India",
+        "Location": "Remote, India"
        
     },
     {
@@ -78,7 +78,7 @@
         "Cloning/ Refresh from PRODUCTION instance to TEST instances using both Hot and Cold Backup."
         "Applying Oracle Critical Patch Update (CPU) to the database using Opatch utility."],
         
-        "Location": "Banglore, India",
+        "Location": "Banglore, India"
         
     }
     
@@ -130,7 +130,7 @@
         "Utilities": "BMC Remedy, Service Now, Jira",
         "Cloud Services": "AWS, GCP",
         "Configuration Management": "Ansible, CloudFormation, Terraform",
-        "Testing Tools" : "Selenium Web driver, Cucumber, BDD",
+        "Testing Tools" : "Selenium Web driver, Cucumber, BDD"
         
     },
     "Education":[
