@@ -24,7 +24,7 @@
         "Creationg and configuring elastic load balancers and auto scaling groups to distribute the traffic and to have cost effective, fault tolerant and highly avaliable and scalable environment.",
         "Using Security groups, network ACL's internet gateways and route tables to ensure a secure zone for organization in AWS cloud"
         ],
-        "Location": "UK",
+        "Location": "UK"
        
     },
     {
