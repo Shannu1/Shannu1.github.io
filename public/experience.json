@@ -77,7 +77,6 @@
         "Monitoring the logs of Full hot backups of prod databases which are scheduled Daily with RMAN.",
         "Cloning/ Refresh from PRODUCTION instance to TEST instances using both Hot and Cold Backup."
         "Applying Oracle Critical Patch Update (CPU) to the database using Opatch utility."],
-        
         "Location": "Banglore, India"
         
     }
