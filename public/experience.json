@@ -63,7 +63,7 @@
         "Customer Support and trouble Shooting Skills & Experience in Providing 24x7 supports."],
         "Location": "Remote, India",
        
-    }
+    },
     {
         "Company Name": "Java stream Technologies",
         "Client Name": "Wipro",
@@ -80,7 +80,7 @@
         
         "Location": "Banglore, India",
         
-    },
+    }
     
     ],
     "Other Projects": [{
@@ -99,14 +99,13 @@
         "Test components of the application as assigned and according to defined application requirements."
         
 
-        ]
-    }
+        ],
+    },
         {
         "Title": "Academic Project",
         "Sub Title": "ELECTRIC VEHICLE CHARGING MANAGEMENT – DRIVER RECOMMENDATION SYSTEM",
         "Location": "Nottingham, UK",
-        "Description":[ "Developed Recommendation system for driver to park the vehicle based on the price, distance, destination by developing a smart Internal parking system.",
-                      ],
+        "Description":"Developed Recommendation system for driver to park the vehicle based on the price, distance, destination by developing a smart Internal parking system.",
         "Roles and Responsibilities": ["Developed Automated gates by vehicle detection by scanning the number plate controlled by distance detecting sensors.",
         "Developed detection of the slot by the colored led lights provided at each slot.",
         "Developed alarm indication to driver to avoid collision to the wall or entering pre- booked or already parked slots to reduce the human errors.",
@@ -150,7 +149,7 @@
         "University": "JNTU, Anantapur",
         "Start Month Year": "04/2008",
         "Grade": "81.9%"
-    }
+    },
     {
         "Degree": "Higher Secondary Education",
         "Specialization": "MPC",
