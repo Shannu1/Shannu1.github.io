@@ -42,7 +42,7 @@
         "Involved in different activities like Sprint planning, Daily Stand-ups, Backlog Grooming, Retrospective planning",
         "Experience in continuous integration or continuous delivery environments.",
         "Effectively involved with development and support team regarding software defects and functionality issues by working closely to solve issues.",
-        "Worked with Agile methodologies and also working with automated tools and frameworks like Cucumber, Selenium web Driver.",
+        "Worked with Agile methodologies and also working with automated tools and frameworks like Cucumber, Selenium web Driver."
         ],
         
         "Location": "London, UK",
@@ -76,7 +76,7 @@
         "Full database refresh from prod to non-prod databases Using RMAN.",
         "Monitoring the logs of Full hot backups of prod databases which are scheduled Daily with RMAN.",
         "Cloning/ Refresh from PRODUCTION instance to TEST instances using both Hot and Cold Backup."
-        "Applying Oracle Critical Patch Update (CPU) to the database using Opatch utility.",],
+        "Applying Oracle Critical Patch Update (CPU) to the database using Opatch utility."],
         
         "Location": "Banglore, India",
         
@@ -91,7 +91,7 @@
         "Location": "Nottingham, UK",
         "Description":[ "This report project I had implemented an automatic real- time system where driver can easily locate the place to charge the vehicle on the move, to reduce the wait time near the charging slots, can be able to plan the trip in advance, can be able to detect the suitable CS from the vehicle in terms to time, distance and traffic congestion from google maps.",
         "Locating the position of the vehicle without any personalized subscription.",
-        "tested the working software functionalites of the developed system in both web and Android based applications", ],
+        "tested the working software functionalites of the developed system in both web and Android based applications" ],
         "Roles and Responsibilities": ["Design and build the required hardware electronics for the proposed project.",
         "Communicating and Collaborating with Different engineering Teams on the hardware and software design and implementation process to make it success.",
         "Researching and developing the new parts and products to be useful for the product development.",
