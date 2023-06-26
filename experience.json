@@ -1,91 +1,159 @@
 {
-  "Name": "Shahanaz Shaik",
-  "Primary Title": "",
-  "Objective Summary": "Ops/Infrastructure engineer with 1+ years of hands-on experience in developing, automating and optimizing deployments over large infrastructure in AWS, configuration management, CI/CD, and DevOps processes. Looking for a career opportunity where I can expand all my skill sets to the advantage of the organisation while having the scope to learn and develop new skills.",
-  "Email": "shaik.shahanaz280@gmail.com",
-  "LinkedIn": "linkedin.com/in/shaik-shahanaz-2036111a1",
-  "Telephone": "+44-7309645665",
-  "Location": "Birmingham, UK ",
-  "WebVersion": "",
-  "Skills": 
-    {
-      "Languages & Scripting": "Python, Shell Scripting, Java Script",
-      "Operating systems": "Linux, Windows",
-      "SCM": "GIT, GITHUB",
-      "Build Tools": "Maven",
-      "Databases": "Oracle, MySQL",
-      "CI/CD Orchestration": "Jenkins, Code Build & Code Pipeline",
-      "Other Tools": "Sonar, Putty, WinScp, Sql Developer",
-      "Container Tools": "Docker",
-      "Utilities": "Service Now, Jira",
-      "Cloud Services": "AWS, GCP",
-      "Configuration Management": "Ansible, CloudFormation"
-    },
-  "Work Experience": [{
-      "Company Name": "ASHTEK-IT-SOLUTIONS",
-      "Client Name": "",
-      "Role": "Associate Software Engineer",
-      "Start Month Year": "2020/09 ",
-      "End Month Year": "2022/05",
-      "TaskAchievements": ["Responsible for design, develop, document, analyze, create, test and modify computer systems.",
-        "Created code application pipelines using Jenkins and Infrastructure as Code pipelines using <b>AWS CodeBuild</b>.",
-        "Enabled Continuous Delivery and deployment into several environments such as Test, QA/UAT and Production environments using Jenkins.",
-        "Created CloudFormation templates for various AWS Cloud services like EC2, S3, ECS, RDS, Lambda, IAM, Secrets, KMS keys etc.",
-        "Standardised IAM federated user role policies of various personas like support, admin and development.",
-        "Working on Cloud Economics Program which focuses on budgeting, cost analysis and savings on AWS Resources."],
-      "Location": "UK",
-      "Company Website": "https://www.ashtek.uk/"
-    }
-  ],
-  "Other Projects": [
-    {
-      "Title": "ELECTRIC VEHICLE CHARGING MANAGEMENT – DRIVER RECOMMENDATION SYSTEM",
-      "Sub Title": "Academic Research project",
-      "Start Month Year": "",
-      "End Month Year": "",
-      "Location": "NTU, UK",
-      "Description": "",
-      "Roles and Responsibilities": ["This report project I had implemented an automatic real- time system where driver can easily locate the place to charge the vehicle on the move, to reduce the wait time near the charging slots, can be able to plan the trip in advance, can be able to detect the suitable CS from the vehicle in terms to time, distance and traffic congestion from google maps..",
-        "Locate the position of vehicle in the google maps without any personalised subscriptions.",
-        "Tested the working software functionalities of the developed system in both web and Android based applications"
-      ]
+    "Name": "Shahanaz Shaik",
+    "Primary Title": "CLoud Engineer",
+    "Objective Summary": "CLoud Engineer, Tester, primarly a DevOps/Infrastructure engineer with 3+ years of hands-on experience in developing, architecting/ automating and optimizing critical deployments over large infrastructure in AWS, leveraging configuration management, CI/CD, and DevOps processes. Also, intrested in working upskilling as Machine learning Practitioner. Looking for a career opportunity where I can expand all my skill sets to the advantage of the organisation while having the scope to learn and develop new skills .",
+    "Email": "shaik.shahanaz280@gmail.com",
+    "LinkedIn": "linkedin.com/in/shaik-shahanaz-2036111a1",
+    "Telephone": "+44-7309645665",
+    "Location": "Birmingham, UK",
+    "WebVersion": "https://blanketspy99.github.io/#/experience",
+    "Work Experience":[{
+        "Company Name": "Career Break",
+        "Client Name": "Personal AWS Project",
+        "Role": "Cloud Engineer",
+        "Start Month Year": "2022/05 ",
+        "End Month Year": "None",
+        "TaskAchievements": ["Be responsible for design, develop, document, analyze, create, test and modify computer systems, programs and integrations concurring with DevOps CI/CD pipelines.",
+        "Creating code application pipelines using <b>Jenkins</b> and Infrastructure as Code pipelines using <b>AWS CodeBuild</b>.",
+        "Creation of <b>CloudFormation templates</b> for various AWS Cloud services like EC2, S3, EMR, RDS, Aurora, Lambda,IAM, Secrets, KMS keys.",
+        "Learned and Worked on standardization of IAM user role policies of various personas like support, admin and development.",
+        "Working on Cloud Economics Program which focuses on budgeting, cost analysis and savings on AWS Resources. ",
+        "Developing Cloud formation scripts to build on-demand EC2 instance formation.",
+        "Creattion of S3 buckets in the AWS environment to store files, to serve static content for the web application.",
+        "Creation of snapshots to take backups of the volumes and images to store and launch EC2 instances.",
+        "Creationg and configuring elastic load balancers and auto scaling groups to distribute the traffic and to have cost effective, fault tolerant and highly avaliable and scalable environment.",
+        "Using Security groups, network ACL's internet gateways and route tables to ensure a secure zone for organization in AWS cloud"
+        ],
+        "Location": "UK"
+       
     },
     {
-      "Title": "CLOUD BASED SMART PARKING SYSTEM & DRIVER RECOMMENDATION SYSTEM FOR PARKING ",
-      "Sub Title": "Major project",
-      "Start Month Year": "",
-      "End Month Year": "",
-      "Location": "NTU, UK",
-      "Description": "",
-      "Roles and Responsibilities": ["Developed Recommendation system for driver to park the vehicle based on the price, distance, destination by developing a smart Internal parking system.",
-        "Developed Automated gates by vehicle detection by scanning the number plate controlled by distance detecting sensors.",
-        "Developed detection of the slot and alarm indication to driver to avoid collision to the wall, detection of pre- booked or already parked slots to reduce the human errors.",
-        "Established the connection between all the parking areas management local repository and databases to central repositories of cloud server with the approaches of IoT wireless sensor networks WSN which can be managed by web-based applications."
-      ]
-    }
-  ],
-  "Education": [
+        "Company Name": "Ashtek It Solutions",
+        "Client Name": "",
+        "Role": "Assosiate Software Engineer (Intern)",
+        "Start Month Year": "09/2020 ",
+        "End Month Year": " 05/2021",
+        "TaskAchievements": ["Understanding the functional Requirements Specifications.",
+        "Involved in setup the automation framework using selenium web-driver to reduce manual efforts.",
+        "Prepared test deliverables like test case as per the acceptance criteria and reports.",
+        "Executed the test cases on different releases and validated the results.",
+        "Experience with defect logging, tracking, and verifying the defects timely manner.",
+        "Involved in designing BDD framework which is completely driven by feature files.",
+        "Involved in different activities like Sprint planning, Daily Stand-ups, Backlog Grooming, Retrospective planning",
+        "Experience in continuous integration or continuous delivery environments.",
+        "Effectively involved with development and support team regarding software defects and functionality issues by working closely to solve issues.",
+        "Worked with Agile methodologies and also working with automated tools and frameworks like Cucumber, Selenium web Driver."
+        ],
+        
+        "Location": "London, UK",
+        "Company Website": "https://www.ashtek.uk/"
+    },
+   {
+        "Company Name": "Nokia",
+        "Role": "Software Engineer",
+        "Start Month Year": "04/2016 ",
+        "End Month Year": " 09/2019",
+        "TaskAchievements": ["Worked as <b>Infrastructure Engineer</b>. Worked as L1 and L2 support for UNIX systems in GCP servers.",
+        "Responsible for Continuous Integration and Continuous Delivery process implementation using Jenkins ",
+        "Experience in using version control systems GIT and build management tools maven ",
+        "Experiences in working on CI/CD, creating pipelines and Jenkins for Continuous Integration and for End to End automation for all build and deployments",
+        "Experience working on several Docker components like Docker Engine, Hub, Machine, creating Docker images, Compose, Docker Registry and handling multiple images primarily for installations and domain configurations.",
+        " Experience in Application deployment on various web/application Servers",
+        "Worked on Build and Release Management methodologies and Software Procedures in all aspects of SDLC.",
+        "Customer Support and trouble Shooting Skills & Experience in Providing 24x7 supports."],
+        "Location": "Remote, India"
+       
+    },
     {
-      "Degree": "Master of Engineering",
-      "Specialization": "Electrical, Electronic and Computer Engineering",
-      "Website": "https://www.ntu.ac.uk/",
-      "University": "Nottingham Trent University",
-      "Start Month Year": "01/2020",
-      "End Month Year": "02/2022",
-      "Grade": "Distinction"
+        "Company Name": "Java stream Technologies",
+        "Client Name": "Wipro",
+        "Role": "DBA Adminstator (Apprenticeship)",
+        "Start Month Year": "05/2014 ",
+        "End Month Year": " 03/2015",
+        "TaskAchievements": ["Administering the physical aspects of the database such as creation of Tablespaces, User management, Undo/temp management.",
+        "Checking of Alert log and Trace files to monitor the database daily.",
+        "Creating users with restricted access with required privileges.",
+        "Full database refresh from prod to non-prod databases Using RMAN.",
+        "Monitoring the logs of Full hot backups of prod databases which are scheduled Daily with RMAN.",
+        "Cloning/ Refresh from PRODUCTION instance to TEST instances using both Hot and Cold Backup.",
+        "Applying Oracle Critical Patch Update (CPU) to the database using Opatch utility."],
+        "Location": "Banglore, India"
+      }
+    
+    ],
+    "Other Projects": [{
+        "Title": "Academic Reserch Project",
+        "Sub Title": "ELECTRIC VEHICLE CHARGING MANAGEMENT – DRIVER RECOMMENDATION SYSTEM",
+        "Start Month Year": "04/2020",
+        "End Month Year": "07/2020",
+        "Location": "Nottingham, UK",
+        "Description":[ "This report project I had implemented an automatic real- time system where driver can easily locate the place to charge the vehicle on the move, to reduce the wait time near the charging slots, can be able to plan the trip in advance, can be able to detect the suitable CS from the vehicle in terms to time, distance and traffic congestion from google maps.",
+        "Locating the position of the vehicle without any personalized subscription.",
+        "tested the working software functionalites of the developed system in both web and Android based applications" ],
+        "Roles and Responsibilities": ["Design and build the required hardware electronics for the proposed project.",
+        "Communicating and Collaborating with Different engineering Teams on the hardware and software design and implementation process to make it success.",
+        "Researching and developing the new parts and products to be useful for the product development.",
+        "Build the code for programming the electrical assemblies for proposed product output.",
+        "Test components of the application as assigned and according to defined application requirements."
+        
+
+        ]
+    },
+        {
+        "Title":"Academic Project",
+        "Sub Title":"ELECTRIC VEHICLE CHARGING MANAGEMENT – DRIVER RECOMMENDATION SYSTEM",
+        "Location": "Nottingham, UK",
+        "Description":"Developed Recommendation system for driver to park the vehicle based on the price, distance, destination by developing a smart Internal parking system.",
+        "Roles and Responsibilities": ["Developed Automated gates by vehicle detection by scanning the number plate controlled by distance detecting sensors.",
+        "Developed detection of the slot by the colored led lights provided at each slot.",
+        "Developed alarm indication to driver to avoid collision to the wall or entering pre- booked or already parked slots to reduce the human errors.",
+        "Established the connection between all the parking areas management local servers to central cloud repository of central cloud server with the approaches of IoT wireless sensor networks WSN which can be managed by web-based applications.",    
+        "Communicating and Collaborating with Different engineering Teams on the hardware and software design and implementation process to make it success.",
+        "Researching and developing the new parts and products to be useful for the product development.",
+        "Build the code for programming the electrical assemblies for proposed product output.",
+        "Test components of the application as assigned and according to defined application requirements."]
     }
-  ],
-  "Certifications": [
-    "AWS Cloud Practioner Essentials",
-    "ASTQB Foundation level certified "
-  ],
-  "Interests": [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Big Data",
-    "Economics",
-    "Android",
-    "Marketing",
-    "Physics"
-  ]
+    ],
+    "Skills": {
+        "Languages & Scripting": "Python, Core Java & Shell Scripting, Java Script",
+        "Operating systems": "Linux and Windows",
+        "SCM": "GIT,  Azure Repos",
+        "Container Orchestration": "Docker",
+        "Build Tools": "Maven",
+        "Databases": "Oracle, MySQL",
+        "CI/CD Orchestration": "Azure DevOps, Jenkins, Code Build & Code Pipeline",
+        "Container Tools": "Docker",
+        "Utilities": "BMC Remedy, Service Now, Jira",
+        "Cloud Services": "AWS, GCP",
+        "Configuration Management": "Ansible, CloudFormation, Terraform",
+        "Testing Tools" : "Selenium Web driver, Cucumber, BDD"
+        
+    },
+    "Education":[
+        {
+        "Degree": "Master of Engineering",
+        "Specialization": "Electronics and Computing",
+        "Website": "https://www.ntu.ac.uk/",
+        "University": "Nottingham Trent University, Nottingham, UK",
+        "Start Month Year": "01/2020",
+        "End Month Year": "02/2022",
+        "Grade": "Distinction"
+    },
+    {
+        "Degree": "Bachelor of Technology",
+        "Specialization": "EEE",
+        "University": "JNTU, Anantapur",
+        "Start Month Year": "04/2008",
+        "Grade": "81.5%"
+    },
+    {
+        "Degree": "Higher Secondary Education",
+        "Specialization": "MPC",
+        "University": "Sri Chaitanya JuniorCollege, Nellore",
+        "Start Month Year": "04/2008",
+        "Grade": "81.9%"
+    }
+],
+    "Certifications":"ISTQB Certified Tester, Foundation Level- June 5 th , 2021 (21-CTFL-01065-USA)."
+    
 }
