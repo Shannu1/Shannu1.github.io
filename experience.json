@@ -87,22 +87,22 @@
       }
     
     ],
-    "Other Projects": [{
+    
+    "Other Projects": [
+        {
         "Title": "Academic Reserch Project",
         "Sub Title": "ELECTRIC VEHICLE CHARGING MANAGEMENT – DRIVER RECOMMENDATION SYSTEM",
         "Start Month Year": "04/2020",
         "End Month Year": "07/2020",
         "Location": "Nottingham, UK",
-        "Description":[ "This report project I had implemented an automatic real- time system where driver can easily locate the place to charge the vehicle on the move, to reduce the wait time near the charging slots, can be able to plan the trip in advance, can be able to detect the suitable CS from the vehicle in terms to time, distance and traffic congestion from google maps.",
+        "Description":["This report project I had implemented an automatic real- time system where driver can easily locate the place to charge the vehicle on the move, to reduce the wait time near the charging slots, can be able to plan the trip in advance, can be able to detect the suitable CS from the vehicle in terms to time, distance and traffic congestion from google maps.",
         "Locating the position of the vehicle without any personalized subscription.",
-        "tested the working software functionalites of the developed system in both web and Android based applications" ],
+        "tested the working software functionalites of the developed system in both web and Android based applications."],
         "Roles and Responsibilities": ["Design and build the required hardware electronics for the proposed project.",
         "Communicating and Collaborating with Different engineering Teams on the hardware and software design and implementation process to make it success.",
         "Researching and developing the new parts and products to be useful for the product development.",
         "Build the code for programming the electrical assemblies for proposed product output.",
-        "Test components of the application as assigned and according to defined application requirements."
-
-        ]
+        "Test components of the application as assigned and according to defined application requirements."]
     },
         {
         "Title":"Academic Project",
@@ -146,6 +146,7 @@
     
     }
 ],
+    
     "Certifications":[
         "ISTQB Certified Tester, Foundation Level- June 5 th , 2021 (21-CTFL-01065-USA)."
     ],
