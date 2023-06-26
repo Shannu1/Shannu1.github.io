@@ -93,7 +93,7 @@
         {
         "Title": "Academic Reserch Project",
         "Sub Title": "ELECTRIC VEHICLE CHARGING MANAGEMENT – DRIVER RECOMMENDATION SYSTEM",
-        "Website": "https://github.com/Shannu1/EV-Research-Project"
+        "Website": "https://github.com/Shannu1/EV-Research-Project",
         "Start Month Year": "04/2020",
         "End Month Year": "07/2020",
         "Location": "Nottingham, UK",
@@ -104,13 +104,13 @@
         "Communicating and Collaborating with Different engineering Teams on the hardware and software design and implementation process to make it success.",
         "Researching and developing the new parts and products to be useful for the product development.",
         "Build the code for programming the electrical assemblies for proposed product output.",
-        "Test components of the application as assigned and according to defined application requirements."],
+        "Test components of the application as assigned and according to defined application requirements."]
 
     },
         {
         "Title":"Academic Project",
         "Sub Title":"REAL TIME CLOUD DATA BASED SMART PARKING SYSTEM IN COUNTRY USING ARDUINO.",
-        "Website": "https://github.com/Shannu1/smart-parking-System/tree/master"
+        "Website": "https://github.com/Shannu1/smart-parking-System/tree/master",
         "Location": "Nottingham, UK",
         "Description":"Developed Recommendation system for driver to park the vehicle based on the price, distance, destination by developing a smart Internal parking system.",
         "Roles and Responsibilities": ["Developed Automated gates by vehicle detection by scanning the number plate controlled by distance detecting sensors.",
@@ -120,7 +120,7 @@
         "Communicating and Collaborating with Different engineering Teams on the hardware and software design and implementation process to make it success.",
         "Researching and developing the new parts and products to be useful for the product development.",
         "Build the code for programming the electrical assemblies for proposed product output.",
-        "Test components of the application as assigned and according to defined application requirements."],
+        "Test components of the application as assigned and according to defined application requirements."]
     }
     ],
     "Skills": {
