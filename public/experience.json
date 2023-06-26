@@ -78,8 +78,7 @@
         "Cloning/ Refresh from PRODUCTION instance to TEST instances using both Hot and Cold Backup.",
         "Applying Oracle Critical Patch Update (CPU) to the database using Opatch utility."],
         "Location": "Banglore, India"
-        
-    }
+      }
     
     ],
     "Other Projects": [{
@@ -112,9 +111,7 @@
         "Communicating and Collaborating with Different engineering Teams on the hardware and software design and implementation process to make it success.",
         "Researching and developing the new parts and products to be useful for the product development.",
         "Build the code for programming the electrical assemblies for proposed product output.",
-        "Test components of the application as assigned and according to defined application requirements."
-        
-        ]
+        "Test components of the application as assigned and according to defined application requirements."]
     }
     ],
     "Skills": {
