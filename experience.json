@@ -154,6 +154,13 @@
         "Grade": "81.9%"
     }
 ],
-    "Certifications":"ISTQB Certified Tester, Foundation Level- June 5 th , 2021 (21-CTFL-01065-USA)."
+    "Certifications":["ISTQB Certified Tester, Foundation Level- June 5 th , 2021 (21-CTFL-01065-USA)."]
+
+    "Intrests": [
+        "Physcis",
+        "AI",
+        "Economics",
+        "ML"
+    ]
     
 }
