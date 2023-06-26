@@ -149,7 +149,7 @@
         "Specialization": "EEE",
         "University": "JNTU, Anantapur",
         "Start Month Year": "04/2008",
-        "Grade": "81.5%"
+        "Grade": "67.5%"
     },
     {
         "Degree": "Higher Secondary Education",
@@ -159,7 +159,9 @@
         "Grade": "81.9%"
     }
 ],
-    "Certifications":["ISTQB Certified Tester, Foundation Level- June 5 th , 2021 (21-CTFL-01065-USA)."],
+    "Certifications":[
+        "ISTQB Certified Tester, Foundation Level- June 5 th , 2021 (21-CTFL-01065-USA)."
+    ],
 
     "Interests": [
         "Physcis",
