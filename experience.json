@@ -143,20 +143,7 @@
         "Start Month Year": "01/2020",
         "End Month Year": "02/2022",
         "Grade": "Distinction"
-    },
-    {
-        "Degree": "Bachelor of Technology",
-        "Specialization": "EEE",
-        "University": "JNTU, Anantapur",
-        "Start Month Year": "04/2008",
-        "Grade": "67.5%."
-    },
-    {
-        "Degree": "Higher Secondary Education",
-        "Specialization": "MPC",
-        "University": "Sri Chaitanya JuniorCollege, Nellore",
-        "Start Month Year": "04/2008",
-        "Grade": "81.9%"
+    
     }
 ],
     "Certifications":[
