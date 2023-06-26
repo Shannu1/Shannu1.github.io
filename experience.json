@@ -7,7 +7,8 @@
     "Telephone": "+44-7309645665",
     "Location": "Birmingham, UK",
     "WebVersion": "",
-    "Work Experience":[{
+    "Work Experience":[
+        {
         "Company Name": "Career Break",
         "Client Name": "Personal AWS Project",
         "Role": "Cloud Engineer",
@@ -25,6 +26,7 @@
         "Using Security groups, network ACL's internet gateways and route tables to ensure a secure zone for organization in AWS cloud"
         ],
         "Location": "UK"
+        "Company Website":""
        
     },
     {
@@ -49,7 +51,8 @@
         "Company Website": "https://www.ashtek.uk/"
     },
    {
-        "Company Name": "Nokia",
+        "Company Name": "Kubex Computer Software Pvt Ltd",
+        "Client Name": "Nokia",
         "Role": "Software Engineer",
         "Start Month Year": "04/2016 ",
         "End Month Year": " 09/2019",
@@ -61,7 +64,8 @@
         " Experience in Application deployment on various web/application Servers",
         "Worked on Build and Release Management methodologies and Software Procedures in all aspects of SDLC.",
         "Customer Support and trouble Shooting Skills & Experience in Providing 24x7 supports."],
-        "Location": "Remote, India"
+        "Location": "Remote, India",
+        "Company Website": ""
        
     },
     {
@@ -77,7 +81,9 @@
         "Monitoring the logs of Full hot backups of prod databases which are scheduled Daily with RMAN.",
         "Cloning/ Refresh from PRODUCTION instance to TEST instances using both Hot and Cold Backup.",
         "Applying Oracle Critical Patch Update (CPU) to the database using Opatch utility."],
-        "Location": "Banglore, India"
+        "Location": "Banglore, India",
+        "Company Website": ""
+
       }
     
     ],
@@ -95,7 +101,6 @@
         "Researching and developing the new parts and products to be useful for the product development.",
         "Build the code for programming the electrical assemblies for proposed product output.",
         "Test components of the application as assigned and according to defined application requirements."
-        
 
         ]
     },
