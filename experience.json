@@ -13,7 +13,7 @@
         "Client Name": "Personal AWS Project",
         "Role": "Cloud Engineer",
         "Start Month Year": "2022/05 ",
-        "End Month Year": "None",
+        "End Month Year": "",
         "TaskAchievements": ["Be responsible for design, develop, document, analyze, create, test and modify computer systems, programs and integrations concurring with DevOps CI/CD pipelines.",
         "Creating code application pipelines using <b>Jenkins</b> and Infrastructure as Code pipelines using <b>AWS CodeBuild</b>.",
         "Creation of <b>CloudFormation templates</b> for various AWS Cloud services like EC2, S3, EMR, RDS, Aurora, Lambda,IAM, Secrets, KMS keys.",
@@ -25,8 +25,8 @@
         "Creationg and configuring elastic load balancers and auto scaling groups to distribute the traffic and to have cost effective, fault tolerant and highly avaliable and scalable environment.",
         "Using Security groups, network ACL's internet gateways and route tables to ensure a secure zone for organization in AWS cloud"
         ],
-        "Location": "UK"
-        "Company Website":""
+        "Location": "UK",
+        "Company Website": ""
        
     },
     {
